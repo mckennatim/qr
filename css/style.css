@@ -131,8 +131,31 @@ body {
 	height: 100px;
 }
 #casc div{
-	background-image: url("http://cascada.sitebuilt.net/cascada-webpack/public/img/cascada.png");
+	background-image: url("https://iot.sitebuilt.net/v3/cascada/icons/ios/AppIcon.appiconset/Icon-App-60x60@2x.png");
 }
+
+#tcard {
+	float:left;
+	text-align: center;
+	//background-color: red;
+	width:	100px;
+	height: 100px;
+}
+#tcard div{
+	background-image: url("https://timecards.sitebuilt.net/signup/img/tcard.png");
+}
+
+#hvac {
+	float:left;
+	text-align: center;
+	//background-color: red;
+	width:	100px;
+	height: 100px;
+}
+#hvac div{
+	background-image: url("https://hvac.parleyvale.com/icons/android/mipmap-xxhdpi/ic_launcher.png");
+}
+
 #mail {
 	float:left;
 	text-align: center;
@@ -152,7 +175,7 @@ body {
 	height: 100px;
 }
 #tax div{
-	background-image: url("http://levelthefield.sitebuilt.net/www/levelthefield2.jpg");
+	background-image: url("http://levelthefield.sitebuilt.net/levelthefield2.jpg");
 }
 #fiddle {
 	float:left;
